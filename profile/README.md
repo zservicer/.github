@@ -99,3 +99,14 @@ npm run server
 > 登录用户名/密码为: demo/123456
 
 用户端: https://www.ymipro.com/
+
+## 运行截图
+
+### 客服端
+
+![客服端](https://patdz.github.io/1999/11/17/htuchuang/servicer.png)
+
+### 客户端
+
+![客服端](https://patdz.github.io/1999/11/17/htuchuang/servicer.png)
+
