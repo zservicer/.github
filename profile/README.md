@@ -108,5 +108,5 @@ npm run server
 
 ### 客户端
 
-![客服端](https://patdz.github.io/1999/11/17/htuchuang/servicer.png)
+![客服端](https://patdz.github.io/1999/11/17/htuchuang/customer.png)
 
